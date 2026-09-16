@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "languageoverlayutil.dll",
+  "latest": "428666561-5505AF516FB354C9F0D5CA03473CF52D-1",
+  "builds": [
+    {
+      "key": "428666561-5505AF516FB354C9F0D5CA03473CF52D-1",
+      "timestamp": "428666561",
+      "pdb_guid": "5505AF516FB354C9F0D5CA03473CF52D",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/428666561-5505AF516FB354C9F0D5CA03473CF52D-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
